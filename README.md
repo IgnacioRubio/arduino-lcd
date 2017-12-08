@@ -18,7 +18,8 @@ This project is made to storage all Arduino projects using diferents LCD feature
 | K                     | LED cathode for retroillumination                                     |
 
 ## Libraries
-* [LiquidCrystal](http://www.arduinolibraries.info/libraries/liquid-crystal) - Allows communication with alphanumerical liquid crystal displays (LCDs).
+- LCD 1602A
+  * [LiquidCrystal](http://www.arduinolibraries.info/libraries/liquid-crystal) - Allows communication with alphanumerical liquid crystal displays (LCDs).
 
 ## Built With
 
